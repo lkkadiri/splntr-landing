@@ -21,6 +21,7 @@ const Header = ({ siteTitle }) => (
           style={{
             color: 'black',
             textDecoration: 'none',
+            fontFamily: 'PT Sans'
           }}
         >
           {siteTitle}

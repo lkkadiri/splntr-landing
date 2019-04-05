@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 
 const Title = styled.h1`
   color: #a2a1b2;
+  font-family: 'PT Sans', sans-serif;
 `;
 
 const IndexPage = () => (

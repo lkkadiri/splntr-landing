@@ -27,7 +27,9 @@ const Layout = ({ children }) => (
           ]}
         >
           <html lang="en" />
+          <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet"/>
         </Helmet>
+        
         <Header siteTitle={data.site.siteMetadata.title} />
         <div
           style={{
